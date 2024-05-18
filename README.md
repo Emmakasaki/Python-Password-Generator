@@ -20,6 +20,7 @@ This is a simple password generator written in Python. It allows you to generate
 
 - Python 3
 - tkinter
+- customtkinter
 - random
 - os
 - filedialog
